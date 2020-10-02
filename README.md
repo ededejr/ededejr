@@ -1,7 +1,8 @@
-![Edede Oiwoh Banner](./banner.png)
 ## Hi there 👋
 
 I'm a software dev, designer, music lover, and amateur [photographer](https://edede.ca).
+
+![Edede Oiwoh Banner](./banner.png)
 
 ## 🚀 Stuff I use a lot
 
