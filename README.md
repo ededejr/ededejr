@@ -4,7 +4,7 @@ I'm a software dev, designer, music lover, and amateur [photographer](https://ed
 
 ![Edede Oiwoh Banner](./banner.png)
 
-## 🚀 Stuff I use a lot
+### 🚀 Stuff I use a lot
 
 #### Languages
 ![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&color=F7DF1E&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&color=007ACC&logo=TypeScript&logoColor=white) ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&color=3776AB&logo=Python&logoColor=whitesmoke)  
@@ -19,6 +19,6 @@ I'm a software dev, designer, music lover, and amateur [photographer](https://ed
 ![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&color=2496ED&logo=docker&logoColor=white) ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-informational?style=for-the-badge&color=0080FF&logo=DigitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-informational?style=for-the-badge&color=black&logo=Amazon%20AWS&logoColor=FF9900)
 
 
-## 📚 Stuff I'm currently learning to use
+### 📚 Stuff I'm currently learning to use
 
 ![Gatsby](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&color=663399&logo=Gatsby&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-informational?style=for-the-badge&color=5C2D91&logo=.NET&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-informational?style=for-the-badge&color=00599C&logo=C%2B%2B&logoColor=white) 
