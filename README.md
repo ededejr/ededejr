@@ -6,8 +6,21 @@ I'm a software dev, designer, music lover, and I take [photos](https://edede.ca)
 
 ### 🚀 Stuff I use a lot
 
-![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&color=F7DF1E&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=for-the-badge&color=007ACC&logo=TypeScript&logoColor=white) ![Python](https://img.shields.io/badge/Python-informational?style=for-the-badge&color=3776AB&logo=Python&logoColor=whitesmoke) ![React](https://img.shields.io/badge/React-informational?style=for-the-badge&color=61DAFB&logo=React&logoColor=black) ![Angular](https://img.shields.io/badge/Angular-informational?style=for-the-badge&color=DD0031&logo=Angular&logoColor=white) ![Ember](https://img.shields.io/badge/Ember-informational?style=for-the-badge&color=E04E39&logo=Ember.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&color=339933&logo=Node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&color=47A248&logo=MongoDB&logoColor=white) ![SQLite3](https://img.shields.io/badge/SQLite-informational?style=for-the-badge&color=003B57&logo=SQLite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&color=2496ED&logo=docker&logoColor=white) ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-informational?style=for-the-badge&color=0080FF&logo=DigitalOcean&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-informational?style=for-the-badge&color=black&logo=Amazon%20AWS&logoColor=FF9900)
+#### Languages
+![https://javascript.info](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E) ![https://www.typescriptlang.org](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=TypeScript&logoColor=007ACC) ![https://www.python.org](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=Python&logoColor=3776AB) 
 
-### 📚 Stuff I'm currently learning to use
+#### Frontend Stuff
+![https://reactjs.org](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=React&logoColor=61DAFB) ![https://angular.io](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=Angular&logoColor=DD0031) ![https://emberjs.com](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=Ember.js&logoColor=E04E39) 
 
-![Gatsby](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&color=663399&logo=Gatsby&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-informational?style=for-the-badge&color=5C2D91&logo=.NET&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-informational?style=for-the-badge&color=00599C&logo=C%2B%2B&logoColor=white) 
+#### Backend Stuff
+![https://nodejs.org/en/](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=Node.js&logoColor=339933) ![https://www.mongodb.com](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=MongoDB&logoColor=47A248) ![https://www.sqlite.org/index.html](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=SQLite&logoColor=003B57) 
+
+#### DevOps Stuff
+![https://www.docker.com](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=Docker&logoColor=2496ED) ![https://www.digitalocean.com](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=DigitalOcean&logoColor=0080FF) ![https://aws.amazon.com](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900) 
+
+
+### 📚 Stuff I'm learning to use
+
+![https://www.gatsbyjs.com](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=Gatsby&logoColor=663399) ![https://dotnet.microsoft.com/apps/aspnet](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=.NET&logoColor=5C2D91) ![http://www.cplusplus.com/doc/tutorial/](https://img.shields.io/badge/-rgba(0%2C0%2C0%2C0)?style=for-the-badge&logo=C%2B%2B&logoColor=00599C) 
+
+
