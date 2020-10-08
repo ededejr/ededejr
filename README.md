@@ -17,6 +17,6 @@ I'm a software dev, designer, music lover, and I take [photos](https://edede.ca)
 
 ### 📚 Stuff I'm learning to use
 
-[![Gatsby](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&color=rgba(0%2C0%2C0%2C%200.8)&logo=Gatsby&logoColor=663399)](https://www.gatsbyjs.com) [![ASP.NET](https://img.shields.io/badge/ASP.NET-informational?style=for-the-badge&color=rgba(0%2C0%2C0%2C%200.8)&logo=.NET&logoColor=5C2D91)](https://dotnet.microsoft.com/apps/aspnet) [![C++](https://img.shields.io/badge/C%2B%2B-informational?style=for-the-badge&color=rgba(0%2C0%2C0%2C%200.8)&logo=C%2B%2B&logoColor=00599C)](http://www.cplusplus.com/doc/tutorial/) 
+[![Gatsby](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&color=rgba(0%2C0%2C0%2C%200.8)&logo=Gatsby&logoColor=663399)](https://www.gatsbyjs.com) [![ASP.NET](https://img.shields.io/badge/ASP.NET-informational?style=for-the-badge&color=rgba(0%2C0%2C0%2C%200.8)&logo=.NET&logoColor=5C2D91)](https://dotnet.microsoft.com/apps/aspnet) 
 
 
