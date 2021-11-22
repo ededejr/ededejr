@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a software dev, designer, music lover, and I take [photos](https://edede.ca) every now and then.
+I'm a software dev, designer, music lover, and I take [photos](https://photos.edede.ca) every now and then.
 
 
 
