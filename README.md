@@ -14,5 +14,6 @@ at work ive predominantly contributed to customer facing products, as well as th
 - [linkedin](https://linkedin.edede.ca)
 
 
-
-
+<a href='http://www.catb.org/hacker-emblem/'>
+  <img style="width:1em;height:1em;" src='http://www.catb.org/hacker-emblem/glider.png' alt='hacker emblem' />
+</a>
