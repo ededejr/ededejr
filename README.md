@@ -3,9 +3,9 @@
 welcome to my github. public repositores are projects released as part of my portfolio, or things made available for public use.
 
 ### about
-most of my time is spent with javascript and typescript, i also spend a fair bit of time with golang. in the last few years ive also been learning rust, a little bit of c++, and refreshing my python.
+my projects are usually for fun or out of curiousity, rarely with any strategic approach. i think tinkering is a good way to learn. usually you'll find me armed with typescript, golang, rust or python.
 
-at work ive predominantly contributed to customer facing products, as well as the foundations and infrastructure to support them. outside of work im limited only by my imagination, some areas ive enjoyed are event driven systems, observability, generative art, command line tooling and writing sdks.
+at work ive bounced around. mostly ive built customer facing products that are realtime and deal with multimedia. ive also enjoyed working on the foundations and infrastructure to support these products and their codebases.
 
 #### traces of me on the web:
 - [site](https://edede.ca)
